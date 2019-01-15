@@ -1,4 +1,4 @@
-f = open("yob2017.txt","r")
+f = open("yob2017.txt","r") #I made this to help format the last-names file. It was used on a *very* specific format, so it probably isin't useful.
 print("File loaded.")
 print("Press any button to start formating.")
 input()
