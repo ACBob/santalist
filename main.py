@@ -1,3 +1,4 @@
+#I think i wrote this really quickly during christmas, so it isin't the best indicator of my programming talent.
 import random # Quite random
 
 f = open("names.txt","r")
